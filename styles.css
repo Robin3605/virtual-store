@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #1c1c1c;
+}
+h1{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 55px;
+    margin-top: 300px;
+}
+h1:hover{
+    color: #2e2e2e;
+}
